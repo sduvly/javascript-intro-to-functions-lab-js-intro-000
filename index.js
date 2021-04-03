@@ -11,8 +11,8 @@ function logShout(string){
     console.log(string.toLowerCase())
 }
 function sayHiToGrandma(string){
-  var case = "string"
-  if case.toLowerCase() {
+  var uppercase = "Hello!"
+  if uppercase.toLowerCase() {
     return "I can\'t hear you!"
   }else {
       return "YES INDEED!"
